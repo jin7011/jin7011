@@ -23,7 +23,7 @@ years = datetime.datetime.now(datetime.timezone.utc).year - created_year
 stats = [
     (f"{total:,}+", "CONTRIBUTIONS", "LAST 12 MONTHS"),
     (f"{years}+", "YEARS", "BUILDING SINCE %d" % created_year),
-    (PRODUCTS, "PRODUCTS", "IN OPERATION"),
+    (PRODUCTS, "PRODUCTS", "운영중 · IN OPERATION"),
 ]
 
 PALETTES = {
