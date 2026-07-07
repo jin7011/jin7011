@@ -11,8 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-fpdlqlrrja36%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:fpdlqlrrja36@naver.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/streak-dark.svg" />
-  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/streak.svg" alt="contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/stats.svg" alt="stats" />
 </picture>
 
 <picture>
