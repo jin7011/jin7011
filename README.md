@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=79B8FF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" />
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=1E40AF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" alt="Build · Ship · Operate" />
@@ -34,13 +32,7 @@
 | 📈 [**Apper**](https://apper-web-dbwp.vercel.app) | Google Play 랭킹 트래커 — 크롤링 파이프라인으로 데이터 자동 축적 |
 | 🍇 **WARAK** | TastingNote와 DB를 공유하는 와인 커뮤니티 |
 
-### 🛠 Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
-
-</div>
+> ⚙️ 자체 베이스 템플릿(Flutter · Next.js)으로 아이디어 → 출시의 거리를 줄이고, 하나의 프로덕트를 앱 → 웹 → 데이터 생태계로 확장하며, 꾸준한 릴리스로 운영합니다.
 
 ### 📊 Consistency
 
@@ -58,4 +50,12 @@
 
 </div>
 
-> ⚙️ 자체 베이스 템플릿(Flutter · Next.js)으로 아이디어 → 출시의 거리를 줄이고, 하나의 프로덕트를 앱 → 웹 → 데이터 생태계로 확장하며, 꾸준한 릴리스로 운영합니다.
+### 🛠 Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
+
+<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
+
+</div>
