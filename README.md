@@ -11,6 +11,20 @@
 [![Blog](https://img.shields.io/badge/Blog-rootcoder.tistory.com-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://rootcoder.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-fpdlqlrrja36%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:fpdlqlrrja36@naver.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jin7011&theme=github-dark&hide_border=true&background=00000000&date_format=Y.m.d" />
+  <img src="https://streak-stats.demolab.com?user=jin7011&hide_border=true&background=00000000&date_format=Y.m.d" alt="contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/snake.svg" alt="contribution snake" width="100%" />
+</picture>
+
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
+
+<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
+
 </div>
 
 ### 📱 Apps in Production
@@ -33,29 +47,3 @@
 | 🍇 **WARAK** | TastingNote와 DB를 공유하는 와인 커뮤니티 |
 
 > ⚙️ 자체 베이스 템플릿(Flutter · Next.js)으로 아이디어 → 출시의 거리를 줄이고, 하나의 프로덕트를 앱 → 웹 → 데이터 생태계로 확장하며, 꾸준한 릴리스로 운영합니다.
-
-### 📊 Consistency
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jin7011&theme=github-dark&hide_border=true&background=00000000&date_format=Y.m.d" />
-  <img src="https://streak-stats.demolab.com?user=jin7011&hide_border=true&background=00000000&date_format=Y.m.d" alt="contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
-</div>
-
-### 🛠 Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
-
-<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
-
-</div>
