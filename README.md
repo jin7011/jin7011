@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=header&text=Build%20%C2%B7%20Ship%20%C2%B7%20Operate&fontSize=36&fontColor=e8e8e8&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=79B8FF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=1E40AF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" alt="Build · Ship · Operate" />
+</picture>
 
 **Android 네이티브(2020) → Flutter(2025) → 풀스택(2026).**
 앱 · 웹 · 서버 · 인프라를 혼자 감당하며, 스토어에 살아있는 앱 **5개**와 웹 서비스들을 직접 만들고 운영합니다.
@@ -31,12 +36,26 @@
 
 ### 🛠 Stack
 
-| | |
-|:---|:---|
-| **Mobile** | Flutter · Dart · Kotlin · Android — 하나의 아키텍처로 양대 스토어 동시 출시 |
-| **Web** | TypeScript · Next.js · React · Tailwind CSS · Three.js |
-| **Backend** | Java 21 · Spring Boot · Node.js · Python · FastAPI |
-| **Infra · Data** | AWS · Docker · PostgreSQL · Redis · Supabase · Firebase · GitHub Actions |
-| **AI** | Gemini · Claude · RAG(pgvector) — 라벨 분석 · 녹음 요약 · OCR, 출시된 기능으로 |
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
+
+</div>
+
+### 📊 Consistency
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jin7011&theme=github-dark&hide_border=true&background=00000000&date_format=Y.m.d" />
+  <img src="https://streak-stats.demolab.com?user=jin7011&hide_border=true&background=00000000&date_format=Y.m.d" alt="contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/snake.svg" alt="contribution snake" width="100%" />
+</picture>
+
+</div>
 
 > ⚙️ 자체 베이스 템플릿(Flutter · Next.js)으로 아이디어 → 출시의 거리를 줄이고, 하나의 프로덕트를 앱 → 웹 → 데이터 생태계로 확장하며, 꾸준한 릴리스로 운영합니다.
