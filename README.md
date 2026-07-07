@@ -1,9 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=79B8FF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=1E40AF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" alt="Build · Ship · Operate" />
-</picture>
+<p align="center">
+  <img src="assets/pixel-tuna.svg" width="72" alt="pixel tuna" align="center" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=79B8FF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" /><img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&center=true&vCenter=true&width=560&height=40&color=1E40AF&lines=BUILD+%C2%B7+SHIP+%C2%B7+OPERATE;5+APPS+%C2%B7+4+WEBS+IN+PRODUCTION" alt="Build · Ship · Operate" align="center" /></picture>
+</p>
 
 **Android 네이티브(2020) → Flutter(2025) → 풀스택(2026).**
 앱 · 웹 · 서버 · 인프라를 혼자 감당하며, 스토어에 살아있는 앱 **5개**와 웹 서비스들을 직접 만들고 운영합니다.
@@ -12,8 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-fpdlqlrrja36%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:fpdlqlrrja36@naver.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jin7011&theme=github-dark&hide_border=true&background=00000000&date_format=Y.m.d" />
-  <img src="https://streak-stats.demolab.com?user=jin7011&hide_border=true&background=00000000&date_format=Y.m.d" alt="contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jin7011/jin7011/output/streak-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jin7011/jin7011/output/streak.svg" alt="contribution streak" />
 </picture>
 
 <picture>
@@ -22,8 +21,6 @@
 </picture>
 
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nextjs,react,tailwind,threejs,java,spring,nodejs,py,fastapi,aws,docker,postgres,redis,supabase,firebase,vercel&perline=10)](https://github.com/jin7011)
-
-<img src="assets/pixel-tuna.svg" width="84" alt="pixel tuna" />
 
 </div>
 

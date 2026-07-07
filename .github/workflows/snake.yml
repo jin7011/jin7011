@@ -21,6 +21,15 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+      - name: fetch streak cards
+        run: |
+          curl -fsS -m 60 --retry 3 --retry-delay 10 \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&background=00000000&date_format=Y.m.d" \
+            -o dist/streak.svg
+          curl -fsS -m 60 --retry 3 --retry-delay 10 \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=github-dark&hide_border=true&background=00000000&date_format=Y.m.d" \
+            -o dist/streak-dark.svg
+          grep -q "Current Streak" dist/streak.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
