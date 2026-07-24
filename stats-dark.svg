@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 150" width="660" height="150">
+<rect x="6" y="6" width="6" height="6" fill="#3b82f6"/><rect x="12" y="6" width="6" height="6" fill="#1e40af"/><rect x="6" y="12" width="6" height="6" fill="#1e40af"/>
+<rect x="648" y="6" width="6" height="6" fill="#3b82f6"/><rect x="642" y="6" width="6" height="6" fill="#1e40af"/><rect x="648" y="12" width="6" height="6" fill="#1e40af"/>
+<rect x="6" y="138" width="6" height="6" fill="#3b82f6"/><rect x="12" y="138" width="6" height="6" fill="#1e40af"/><rect x="6" y="132" width="6" height="6" fill="#1e40af"/>
+<rect x="648" y="138" width="6" height="6" fill="#3b82f6"/><rect x="642" y="138" width="6" height="6" fill="#1e40af"/><rect x="648" y="132" width="6" height="6" fill="#1e40af"/>
+<text x="110" y="68" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="34" font-weight="700" fill="#93c5fd">2,145+</text>
+<text x="110" y="97" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#cbd5e1">CONTRIBUTIONS</text>
+<text x="110" y="118" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="9" letter-spacing="2" fill="#94a3b8">LAST 12 MONTHS</text>
+<rect x="217" y="38" width="6" height="6" fill="#1e40af"/>
+<rect x="217" y="60" width="6" height="6" fill="#1e40af"/>
+<rect x="217" y="82" width="6" height="6" fill="#1e40af"/>
+<rect x="217" y="104" width="6" height="6" fill="#1e40af"/>
+<text x="330" y="68" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="34" font-weight="700" fill="#93c5fd">6+</text>
+<text x="330" y="97" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#cbd5e1">YEARS</text>
+<text x="330" y="118" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="9" letter-spacing="2" fill="#94a3b8">BUILDING SINCE 2020</text>
+<rect x="437" y="38" width="6" height="6" fill="#1e40af"/>
+<rect x="437" y="60" width="6" height="6" fill="#1e40af"/>
+<rect x="437" y="82" width="6" height="6" fill="#1e40af"/>
+<rect x="437" y="104" width="6" height="6" fill="#1e40af"/>
+<text x="550" y="68" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="34" font-weight="700" fill="#93c5fd">9+</text>
+<text x="550" y="97" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#cbd5e1">PRODUCTS</text>
+<text x="550" y="118" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,Menlo,monospace" font-size="9" letter-spacing="2" fill="#94a3b8">운영중 · IN OPERATION</text>
+</svg>
